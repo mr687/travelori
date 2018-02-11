@@ -1,0 +1,25 @@
+.menu{
+	font-family: 'Julius Sans One', sans-serif !important;
+	font-size: 1.6rem !important;
+}
+img{
+	max-width: 100% !important;
+}
+.color.white{
+	color: white !important;
+}
+body{
+	font-family: 'Century Gothic';
+}
+.flat{
+	border-radius: 0px !important;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Julius Sans One', sans-serif !important;
+}
+.justify{
+	text-align: justify !important;
+}
+a{color: white;}
+a:hover{color:#eee;}
+input,select,textarea{border-radius: 0px !important;}
